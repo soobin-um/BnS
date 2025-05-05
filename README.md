@@ -1,6 +1,8 @@
-# Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation
+# Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation (ICML 2025)
 
-This repository contains the implementation of the paper "Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation".
+[Soobin Um*](https://soobin-um.github.io/), [Beomsu Kim*](https://scholar.google.com/citations?user=TofIFUgAAAAJ&hl=en), and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
+
+This repository contains the implementation of the paper "Boost-and-Skip: A Simple Guidance-Free Diffusion for Minority Generation" (ICML 2025).
 
 ## 1. Environment setup
 We provide a conda environment configuration file to install all the required dependencies. If you don’t have conda installed, you can get it from [here](https://docs.conda.io/en/latest/miniconda.html).
